@@ -28,7 +28,7 @@ An agentic Retrieval-Augmented Generation (RAG) chatbot that integrates the powe
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/triptisingh22a/Agentic_RAG_Bot.git
+git clone https://github.com/triptisingh22a/Agentic_rag_chatbot.git
 cd Agentic_RAG_Bot
 python -m venv venv
 source venv/bin/activate  # or .\venv\Scripts\activate on Windows
